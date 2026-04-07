@@ -6,7 +6,7 @@ Repo: https://github.com/ucsb-cs156-s26/jpa02-lzuccaucsb
 
 
 
-Deployed at: https://jpa02-lzuccaucsb.dokku-12.cs.ucsb.edu 
+Deployed at: https://jpa02-lzuccaucsb.dokku-12.cs.ucsb.edu/
 
 
 # About this repo
